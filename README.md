@@ -5,7 +5,7 @@ echo 'My name is Thien';
 
 function techStack()
 {
-    return ['vue.js', 'wordpress', 'laravel']
+    return ['vue.js', 'wordpress', 'laravel'];
 }
 
 function links() 
